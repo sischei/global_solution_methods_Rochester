@@ -28,7 +28,7 @@ value function iteration or by iterating on the first order conditions-that is, 
 -----|------|------
 11.18.2019 | 00:00 - 00:00 am | Introduction to Sparse Grids and Adaptive Sparse Grids, Dynamic Programming with Sparse Grids
 11.19.2019 | 00:00 - 00:00 am | Introduction to Machine Learning (supervised and unsupervised machine learning), and basics on Gaussian Process Regression
-01.30.2018 | 00:00 - 00:00 am | Gaussian Mixture Models, Dimension-reduction with the active subspace method. Solving dynamic models on high-dimensional, (irregularly-shaped) state spaces
+11.20.2019 | 00:00 - 00:00 am | Gaussian Mixture Models, Dimension-reduction with the active subspace method. Solving dynamic models on high-dimensional, (irregularly-shaped) state spaces
 
 The lectures will take place at ROOM XXX at YYY
 
