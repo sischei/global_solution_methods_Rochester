@@ -3,6 +3,7 @@
 # make matlab available 
 #module load Apps/Matlab
 #module load Langs/Python/2.7.15-anaconda 
+module load unzip
 
 # unpack Matlab sparse grid library
 unzip spinterp_v5.1.1.zip
@@ -19,7 +20,7 @@ echo " Tasmanian library is installed "
 # Install IPOPT and PYIPOPT
 cd ../
 cd pyipopt
-./install.sh
+sh install.sh
 echo " IPOPT and PYIPOPT is installed "
 
 
