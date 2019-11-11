@@ -1,6 +1,6 @@
 
 # setup environment
-source setup_env.sh
+source ./setup_env.sh
 
 
 #Install IPOPT
@@ -12,7 +12,7 @@ mkdir -p build
 
 cd build
 
-../configure
+sh ../configure
  
 make -j12
  
@@ -35,6 +35,9 @@ echo " IPOPT is installed"
 tar xfv pyipopt.tar
  
 cd pyipopt
+
+# for BlueHive version with necessary packages
+module load python/2.7.12
  
 python setup.py build
  
