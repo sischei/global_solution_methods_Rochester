@@ -2,7 +2,7 @@
 
 This is an routine on how to setup and run codes in this reponsitory.
 
-### Setup and Test
+### 1.Setup and Test
 
 #### Step 0: Go to Github: https://github.com/sischei/global_solution_methods_Rochester
 
@@ -26,7 +26,7 @@ $: cd global_solution_methods_Rochester-master/Lecture_1/SparseGridCode
 
 $: python hs071.py
 
-### Running Examples
+### 2.Running Examples
 
 #### Step 1: open terminal, before you run any code 
 
