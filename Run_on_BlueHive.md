@@ -8,7 +8,7 @@ This is an routine on how to setup and run codes in this reponsitory.
 
 Download and unzip to your mian folder, the name would be global_solution_methods_Rochester-master
 
-#### Step 1: [setup] Go to /home/mfang2(Your NetID)/global_solution_methods_Rochester-master/Lecture_1/SparseGridCode
+#### Step 1: [setup] Go to /home/(Your NetID)/global_solution_methods_Rochester-master/Lecture_1/SparseGridCode
 
 Install necessary packages (IPOPT is preinstalled by CIRC stuff for us, so I commented it out in install_SG.sh)   
     
