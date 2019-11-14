@@ -17,10 +17,12 @@ make
 # python example.py  ##test
 echo " Tasmanian library is installed "
 
+
+# IPOPT and PYIPOPT is pre-installed under "module ipopt/3.12.12/b2" on BlueHive
 # Install IPOPT and PYIPOPT
-cd ../
-cd pyipopt
-sh install.sh
-echo " IPOPT and PYIPOPT is installed "
+#cd ../
+#cd pyipopt
+#sh install.sh
+#echo " IPOPT and PYIPOPT is installed "
 
 
