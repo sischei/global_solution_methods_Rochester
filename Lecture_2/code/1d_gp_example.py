@@ -22,7 +22,7 @@ def kernel_function(a, b):
 # Here we run the test
 N = 10         # number of training points.
 n = 50         # number of test points.
-s = 0.5    # noise variance.
+s = 0.0005    # noise variance.
 
 # Sample some input points and noisy versions of the function evaluated at
 # these points. 
